@@ -1,10 +1,10 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://i.dmego.cn/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://beiyao.icu)
 [![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
+
 
 ### 个人主页
 
->这是我的个人主页
+>这是我的个人主页 fork自 [Dmego的个人主页](https://github.com/dmego/home.github.io)
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
